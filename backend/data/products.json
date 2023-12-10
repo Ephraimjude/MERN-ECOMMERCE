@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Card",
+        "price": "23.49",
+        "description": "this product is dope",
+        "image": [
+            {
+                "public_id": "products.123400201",
+                "url": "https://www.bhphotovideo.com/images/images1000x1000/SanDisk_SDSDRX3_128G_A21_128GB_SDXC_Memory_Card_839981.jpg"
+            }
+        ],
+        "stock": 10,
+        "category": "Electronics",
+        "seller":"Samsung",
+        "numOfReviews": "30",
+        "reviews": []
+    },
+    {
+        "name": "Card-formater",
+        "price": "99.49",
+        "description": "this product is dope",
+        "image": [
+            {
+                "public_id": "products.123400201",
+                "url": "https://www.bhphotovideo.com/images/images1000x1000/SanDisk_SDSDRX3_128G_A21_128GB_SDXC_Memory_Card_839981.jpg"
+            }
+        ],
+        "stock": 10,
+        "category": "Electronics",
+        "seller":"Samsung",
+        "numOfReviews": "30",
+        "reviews": []
+    },
+    {
+        "name": "Card-reader",
+        "price": "13.49",
+        "description": "this product is dope",
+        "image": [
+            {
+                "public_id": "products.123400201",
+                "url": "https://www.bhphotovideo.com/images/images1000x1000/SanDisk_SDSDRX3_128G_A21_128GB_SDXC_Memory_Card_839981.jpg"
+            }
+        ],
+        "stock": 10,
+        "category": "Electronics",
+        "seller":"Samsung",
+        "numOfReviews": "30",
+        "reviews": []
+    },
+    {
+        "name": "Card-listener",
+        "price": "53.49",
+        "description": "this product is dope",
+        "image": [
+            {
+                "public_id": "products.123400201",
+                "url": "https://www.bhphotovideo.com/images/images1000x1000/SanDisk_SDSDRX3_128G_A21_128GB_SDXC_Memory_Card_839981.jpg"
+            }
+        ],
+        "stock": 10,
+        "category": "Electronics",
+        "seller":"Samsung",
+        "numOfReviews": "30",
+        "reviews": []
+    },
+    {
+        "name": "laptop",
+        "price": "223.49",
+        "description": "this product is dope",
+        "image": [
+            {
+                "public_id": "products.123400201",
+                "url": "https://www.bhphotovideo.com/images/images1000x1000/SanDisk_SDSDRX3_128G_A21_128GB_SDXC_Memory_Card_839981.jpg"
+            }
+        ],
+        "stock": 10,
+        "category": "Electronics",
+        "seller":"Samsung",
+        "numOfReviews": "30",
+        "reviews": []
+    }
+]

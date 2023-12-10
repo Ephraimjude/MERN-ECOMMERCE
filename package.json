@@ -1,0 +1,22 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "full ecommerce site using MERN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "set NODE_ENV=DEVELOPMENT && nodemon backend/server.js",
+    "prod": "set NODE_ENV=PRODUCTION && nodemon backend/server.js",
+    "seeder": "node backend/utils/seeder.js"
+  },
+  "author": "Ephraim Jude",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "mongodb": "^5.9.0",
+    "mongoose": "^7.5.2",
+    "nodemon": "^3.0.1"
+  }
+}
